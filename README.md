@@ -1,1 +1,1 @@
-# Discord-Webhook-Spammer
+# Simple Webhook spammer for discord <3
